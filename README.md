@@ -1,8 +1,7 @@
 <!-- Visitor counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kidusefrem/count.svg" alt="Visitor count" />
+  <img src="https://raw.githubusercontent.com/Kidus-Efrem/Kidus-Efrem/main/avataaars.png" alt="Kidus Efrem" width="120" style="border-radius: 50%;"/>
 </div>
-
 <!-- Animated headline -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&duration=3000&color=4493F8&center=true&vCenter=true&width=600&lines=Hi+there!👋;I'm+Kidus+Efrem;Code+with+purpose!" />
